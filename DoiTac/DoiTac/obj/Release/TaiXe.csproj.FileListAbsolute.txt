@@ -1,0 +1,16 @@
+D:\Application_Test\DoiTac\DoiTac\bin\Release\DoiTac.exe.config
+D:\Application_Test\DoiTac\DoiTac\bin\Release\DoiTac.exe
+D:\Application_Test\DoiTac\DoiTac\bin\Release\DoiTac.pdb
+D:\Application_Test\DoiTac\DoiTac\obj\Release\TaiXe.csproj.AssemblyReference.cache
+D:\Application_Test\DoiTac\DoiTac\obj\Release\TaiXe.csproj.SuggestedBindingRedirects.cache
+D:\Application_Test\DoiTac\DoiTac\obj\Release\DoiTac.ChiTietDonHang_TX.resources
+D:\Application_Test\DoiTac\DoiTac\obj\Release\DoiTac.DonDaNhan_TX.resources
+D:\Application_Test\DoiTac\DoiTac\obj\Release\DoiTac.MainScreen.resources
+D:\Application_Test\DoiTac\DoiTac\obj\Release\DoiTac.NhanDon_TX.resources
+D:\Application_Test\DoiTac\DoiTac\obj\Release\DoiTac.Properties.Resources.resources
+D:\Application_Test\DoiTac\DoiTac\obj\Release\DoiTac.TaiKhoan_TX.resources
+D:\Application_Test\DoiTac\DoiTac\obj\Release\DoiTac.TTKhachHang_TX.resources
+D:\Application_Test\DoiTac\DoiTac\obj\Release\TaiXe.csproj.GenerateResource.cache
+D:\Application_Test\DoiTac\DoiTac\obj\Release\TaiXe.csproj.CoreCompileInputs.cache
+D:\Application_Test\DoiTac\DoiTac\obj\Release\DoiTac.exe
+D:\Application_Test\DoiTac\DoiTac\obj\Release\DoiTac.pdb

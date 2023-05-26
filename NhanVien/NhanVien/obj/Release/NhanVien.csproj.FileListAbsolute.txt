@@ -1,0 +1,14 @@
+D:\Application_Test\NhanVien\NhanVien\bin\Release\NhanVien.exe.config
+D:\Application_Test\NhanVien\NhanVien\bin\Release\NhanVien.exe
+D:\Application_Test\NhanVien\NhanVien\bin\Release\NhanVien.pdb
+D:\Application_Test\NhanVien\NhanVien\obj\Release\NhanVien.csproj.AssemblyReference.cache
+D:\Application_Test\NhanVien\NhanVien\obj\Release\NhanVien.csproj.SuggestedBindingRedirects.cache
+D:\Application_Test\NhanVien\NhanVien\obj\Release\NhanVien.DoiTac_NV.resources
+D:\Application_Test\NhanVien\NhanVien\obj\Release\NhanVien.HopDong_NV.resources
+D:\Application_Test\NhanVien\NhanVien\obj\Release\NhanVien.MainScreem.resources
+D:\Application_Test\NhanVien\NhanVien\obj\Release\NhanVien.Properties.Resources.resources
+D:\Application_Test\NhanVien\NhanVien\obj\Release\NhanVien.XuLiHopDong_NV.resources
+D:\Application_Test\NhanVien\NhanVien\obj\Release\NhanVien.csproj.GenerateResource.cache
+D:\Application_Test\NhanVien\NhanVien\obj\Release\NhanVien.csproj.CoreCompileInputs.cache
+D:\Application_Test\NhanVien\NhanVien\obj\Release\NhanVien.exe
+D:\Application_Test\NhanVien\NhanVien\obj\Release\NhanVien.pdb

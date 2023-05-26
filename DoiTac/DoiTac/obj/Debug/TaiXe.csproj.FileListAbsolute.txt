@@ -1,0 +1,16 @@
+D:\Application_Test\DoiTac\DoiTac\bin\Debug\DoiTac.exe.config
+D:\Application_Test\DoiTac\DoiTac\bin\Debug\DoiTac.exe
+D:\Application_Test\DoiTac\DoiTac\bin\Debug\DoiTac.pdb
+D:\Application_Test\DoiTac\DoiTac\obj\Debug\TaiXe.csproj.AssemblyReference.cache
+D:\Application_Test\DoiTac\DoiTac\obj\Debug\TaiXe.csproj.SuggestedBindingRedirects.cache
+D:\Application_Test\DoiTac\DoiTac\obj\Debug\DoiTac.MainScreen.resources
+D:\Application_Test\DoiTac\DoiTac\obj\Debug\DoiTac.NhanDon_TX.resources
+D:\Application_Test\DoiTac\DoiTac\obj\Debug\DoiTac.Properties.Resources.resources
+D:\Application_Test\DoiTac\DoiTac\obj\Debug\DoiTac.TaiKhoan_TX.resources
+D:\Application_Test\DoiTac\DoiTac\obj\Debug\TaiXe.csproj.GenerateResource.cache
+D:\Application_Test\DoiTac\DoiTac\obj\Debug\TaiXe.csproj.CoreCompileInputs.cache
+D:\Application_Test\DoiTac\DoiTac\obj\Debug\DoiTac.exe
+D:\Application_Test\DoiTac\DoiTac\obj\Debug\DoiTac.pdb
+D:\Application_Test\DoiTac\DoiTac\obj\Debug\DoiTac.DonDaNhan_TX.resources
+D:\Application_Test\DoiTac\DoiTac\obj\Debug\DoiTac.TTKhachHang_TX.resources
+D:\Application_Test\DoiTac\DoiTac\obj\Debug\DoiTac.ChiTietDonHang_TX.resources
